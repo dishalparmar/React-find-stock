@@ -1,0 +1,10 @@
+.app {
+  display: grid;
+  place-items: center;
+}
+.app h3 {
+  padding: 10px 0;
+}
+.app-company-ddl {
+  padding: 10px;
+}
